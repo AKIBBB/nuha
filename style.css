@@ -232,3 +232,9 @@ margin-bottom: 3rem;
     margin-top: 2rem;
     cursor: pointer;
 }
+
+.cv{
+    text-align: center;
+    font-size: large;
+    padding: 50px;
+}
